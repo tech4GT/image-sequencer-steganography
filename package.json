@@ -1,0 +1,22 @@
+{
+  "name": "image-sequencer-steganography",
+  "version": "1.0.0",
+  "description": "Steganography Module for Image Sequencer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tech4gt/image-sequencer-steganography"
+  },
+  "keywords": [
+    "steganography"
+  ],
+  "author": "Varun Gupta <varun.gupta1798@gmail.com> (http://codingblocks.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tech4gt/image-sequencer-steganography/issues"
+  },
+  "homepage": "https://github.com/tech4gt/image-sequencer-steganography#readme"
+}

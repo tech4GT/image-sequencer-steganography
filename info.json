@@ -1,0 +1,20 @@
+{
+    "name": "Steganography",
+    "description": "Hides a message inside an image by manipulating the pixel values",
+    "inputs": {
+        "message": {
+            "type": "string",
+            "desc": "the message that is to be hidden",
+            "default": "this is a secret message"
+        },
+        "process": {
+            "type": "select",
+            "desc": "Encode or Decode the message into or from the image",
+            "default": "encode",
+            "values": [
+                "encode",
+                "decode"
+            ]
+        }
+    }
+}
